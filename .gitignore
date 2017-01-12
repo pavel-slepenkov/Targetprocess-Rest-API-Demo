@@ -1,0 +1,9 @@
+.idea
+IlluminatedCloud/
+*.iml
+*.sublime-workspace
+*.sublime-project
+config
+out
+.project
+salesforce.schema
